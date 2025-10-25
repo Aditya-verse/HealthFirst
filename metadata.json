@@ -1,0 +1,5 @@
+{
+  "name": "Health First",
+  "description": "A fully functional, responsive website for a health and wellness app called 'Health First.' This application provides a frontend experience simulating features like health tracking, diet plans, workout monitoring, and doctor consultations, complete with mock authentication and user/admin dashboards.",
+  "requestFramePermissions": []
+}
